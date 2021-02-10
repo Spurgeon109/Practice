@@ -1,5 +1,5 @@
 import random
-if name == '__main__':
+if __name__ == '__main__':
     print("Welcome to the game\nGuess a number and enter")
     a = int(input())
     b = random.randint(0, 9)

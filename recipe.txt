@@ -1,6 +1,0 @@
-+++++++++++++++++++++++++++++++
-List of recipes
-1) Pizza
-2) Burger
-3) Fried recipes
-4) Noodles

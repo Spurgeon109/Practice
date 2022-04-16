@@ -1,8 +1,0 @@
-+++++++++++++++++++++++++++++++
-List of recipes
-1) Pizza
-2) Burger
-3) Fried recipes
-4) Noodles
-5) Biriyani
-6) Tandoori
